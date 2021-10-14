@@ -1,0 +1,8 @@
+{
+  "name": "Cream Reader",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "346b314f"
+}

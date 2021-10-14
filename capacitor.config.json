@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Cream Reader",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
